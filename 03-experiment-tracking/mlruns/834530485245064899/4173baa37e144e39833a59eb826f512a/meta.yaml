@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/flr/Desktop/ie-mlops-nyc-taxis/03-experiment-tracking/mlruns/834530485245064899/4173baa37e144e39833a59eb826f512a/artifacts
+end_time: 1761735205844
+entry_point_name: ''
+experiment_id: '834530485245064899'
+lifecycle_stage: active
+run_id: 4173baa37e144e39833a59eb826f512a
+run_name: tasteful-pig-178
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761735201551
+status: 3
+tags: []
+user_id: flr

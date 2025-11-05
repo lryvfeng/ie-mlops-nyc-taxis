@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/flr/Desktop/ie-mlops-nyc-taxis/03-experiment-tracking/mlruns/834530485245064899/123cc0555d724aca932d35cec4b81c96/artifacts
+end_time: 1761735208149
+entry_point_name: ''
+experiment_id: '834530485245064899'
+lifecycle_stage: active
+run_id: 123cc0555d724aca932d35cec4b81c96
+run_name: learned-grub-899
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761735205845
+status: 3
+tags: []
+user_id: flr
