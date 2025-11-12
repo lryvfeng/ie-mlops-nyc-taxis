@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/401896539156262679/74414cb51fdd4eaf88179401f08fdd02/artifacts
+end_time: 1762345303660
+entry_point_name: ''
+experiment_id: '401896539156262679'
+lifecycle_stage: active
+run_id: 74414cb51fdd4eaf88179401f08fdd02
+run_name: abundant-panda-65
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762345300378
+status: 3
+tags: []
+user_id: flr

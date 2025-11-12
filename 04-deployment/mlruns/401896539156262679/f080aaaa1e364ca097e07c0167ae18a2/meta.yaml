@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/401896539156262679/f080aaaa1e364ca097e07c0167ae18a2/artifacts
+end_time: 1762335560405
+entry_point_name: ''
+experiment_id: '401896539156262679'
+lifecycle_stage: active
+run_id: f080aaaa1e364ca097e07c0167ae18a2
+run_name: unequaled-toad-766
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762335556560
+status: 3
+tags: []
+user_id: flr

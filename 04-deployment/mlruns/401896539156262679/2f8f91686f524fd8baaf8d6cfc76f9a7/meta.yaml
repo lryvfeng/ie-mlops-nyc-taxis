@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/401896539156262679/2f8f91686f524fd8baaf8d6cfc76f9a7/artifacts
+end_time: 1762342114226
+entry_point_name: ''
+experiment_id: '401896539156262679'
+lifecycle_stage: active
+run_id: 2f8f91686f524fd8baaf8d6cfc76f9a7
+run_name: delightful-ape-754
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762342110948
+status: 3
+tags: []
+user_id: flr

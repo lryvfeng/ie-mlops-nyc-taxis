@@ -1,0 +1,6 @@
+artifact_location: mlflow-artifacts:/401896539156262679
+creation_time: 1762335556485
+experiment_id: '401896539156262679'
+last_update_time: 1762335556485
+lifecycle_stage: active
+name: nyc-taxi-duration

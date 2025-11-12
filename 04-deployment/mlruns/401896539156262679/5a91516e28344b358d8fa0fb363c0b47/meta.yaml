@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/401896539156262679/5a91516e28344b358d8fa0fb363c0b47/artifacts
+end_time: 1762340749396
+entry_point_name: ''
+experiment_id: '401896539156262679'
+lifecycle_stage: active
+run_id: 5a91516e28344b358d8fa0fb363c0b47
+run_name: victorious-finch-84
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762340745936
+status: 3
+tags: []
+user_id: flr
